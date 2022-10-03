@@ -11,4 +11,5 @@ Methodology Used-
 Transformed the Data into Train and Test Dataset, by extracting 10th year data for para 9-13 for every section. 
 Then scaled the input using Standard scaler.
 After that we Used Tensorflow to implement 3 Layer ANN.
-Scaled data rmse is 
+Scaled data rmse is 1.93
+
